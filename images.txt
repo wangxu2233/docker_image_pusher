@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 docker.io/xiaoyaliu/alist:latest
 xiaoyaliu/alist:latest
-alist:latest
+nastool/nas-tools
